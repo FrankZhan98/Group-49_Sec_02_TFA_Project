@@ -1,6 +1,9 @@
 Contents
+
 •	Project Description
+
 •	Group Name and Section
+
 •	UNI for Members on the Team
 
 1.Description
