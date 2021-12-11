@@ -20,7 +20,7 @@ Project Group 49 from Fall 2021 - IEORE4501_002_2021_3 - TOOLS FOR ANALYTICS (se
 
 3.UNI for Members on the Team
 
-Name	    UNI
-Ivie Geng	yg2816
-Sibo Zhan	sz3012
+｜Name｜UNI｜
+｜Ivie Geng｜yg2816｜
+｜Sibo Zhan｜sz3012｜
 
